@@ -1,6 +1,6 @@
 # Self-Ordering Kiosk System
 
-A Java-based self-ordering kiosk system that allows customers to place orders while providing administrators with tools to manage menu items and monitor transactions.
+A Java-based self-ordering kiosk system that allows customers to place orders while providing admin with tools to manage menu items and monitor transactions.
 
 ## Features
 

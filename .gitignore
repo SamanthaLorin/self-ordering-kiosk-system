@@ -1,0 +1,13 @@
+# NetBeans specific directories
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Log files
+*.log
+
+# Compiled class files
+*.class

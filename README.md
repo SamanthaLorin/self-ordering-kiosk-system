@@ -18,7 +18,7 @@ A Java-based self-ordering kiosk system that allows customers to place orders wh
 - View customer orders
 - View Most Ordered Items
 
-## Technologies Used
+## Used Tech
 
 - Java
 - Java Swing
